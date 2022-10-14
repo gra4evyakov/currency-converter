@@ -1,0 +1,61 @@
+.card, select, input {
+    border-radius: 1rem!important;
+}
+
+.col-6 {
+    max-width: 100%!important;
+}
+
+.courses {
+    display: flex;
+    margin-bottom: 15px;
+}
+
+.courses > *:first-child {
+    margin-left: 0;
+}
+
+.courses > *:last-child {
+    margin-right: 0;
+}
+
+.courses > * {
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.course-item {
+}
+.course-item-title {
+    font-weight: 700;
+    font-size: 18px;
+}
+.course-item-value {
+    font-size: 32px;
+    font-weight: 300;
+}
+
+.course-item-value.top {
+    color: rgb(255, 51, 51);
+}
+
+.course-item-value.bottom {
+    color: rgb(19, 189, 61);
+}
+
+.currency-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+p.top {
+    color: rgb(255, 51, 51);
+    rotate: 180deg;
+    margin: 0;
+}
+
+p.bottom {
+    color: rgb(19, 189, 61);
+    margin: 0;
+}

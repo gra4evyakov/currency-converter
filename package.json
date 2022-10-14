@@ -1,6 +1,6 @@
 {
-  "homepage": "https://gra4evyakov.github.io/converter-start",
-  "name": "converter-start",
+  "homepage": "https://gra4evyakov.github.io/currency-converter",
+  "name": "currency-converter",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",

@@ -1,0 +1,23 @@
+{
+  "homepage": "https://gra4evyakov.github.io/converter-start",
+  "name": "converter-start",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gra4evyakov/currency-converter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gra4evyakov/currency-converter/issues"
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
